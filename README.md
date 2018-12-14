@@ -1,6 +1,6 @@
 # Tab 4 Light Project/Rom
 
-**MSM-8226 board common vender blob For Samsung Galaxy Tab 4 (matisse & millet)**
+**MSM-8226 board common vender For Samsung Galaxy Tab 4 (matisse & millet)**
 
 |Code Name|Model Number|ScreenSize|Colors|
 |--|--|--|--|
@@ -15,5 +15,7 @@ Support thread over on **XDA**
 or to help maintain the rom & the devices.
 
 Work In Progress. **Need Help!!!!**
+
+Branch need to build **LineageOS-14.1/LightOS-1.0*
 
 Copyright **2018** - **BAProductions**(The Tab 4 Light Project)
